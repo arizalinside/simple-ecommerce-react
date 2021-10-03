@@ -1,4 +1,6 @@
-# simple-ecommerce-react
+<p align="center">
+simple-ecommerce-react
+</p>
 
 # Getting Started with Create React App
 
