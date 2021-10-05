@@ -26,3 +26,17 @@ body {
 .text-bright {
   color: var(--lightBlue) !important;
 }
+
+.btn-black {
+  background: var(--mainDark) !important;
+  color: var(--mainWhite) !important;
+}
+
+.btn-black:hover {
+  background: var(--mainBlue) !important;
+  color: var(--mainWhite) !important;
+}
+
+.cart-icon {
+  cursor: pointer;
+}
