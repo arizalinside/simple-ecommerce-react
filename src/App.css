@@ -5,6 +5,13 @@
   --mainWhite: #fff;
   --mainDark: #000;
   --mainYellow: #f9c851;
+  --mainGreen: #00a651;
+  --mainRed: #e8334a;
+  --mainPurple: #a55eea;
+  --mainPink: #f2749b;
+  --mainOrange: #f9c851;
+  --mainBrown: #8d6e63;
+  --mainBeige: #f5f5dc;
 }
 
 body {
@@ -39,4 +46,9 @@ body {
 
 .cart-icon {
   cursor: pointer;
+}
+
+.cardbox {
+  border: 1px solid var(--mainDark) !important;
+  border-radius: 0.5rem !important;
 }
