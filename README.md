@@ -6,7 +6,9 @@
     ·
     <a href="https://github.com/arizalinside/simple-ecommerce-react/issues">Request Feature</a>
   </p>
-  
+
+## Built With
+
 [![React](https://img.shields.io/badge/React-v17.0.2-blue)](https://github.com/facebook/react)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.1.x-purple)](https://getbootstrap.com/)
   
@@ -14,6 +16,14 @@
 
 1. <a href="https://nodejs.org/en/download/">Node Js</a>
 2. Node_modules `npm install` or `yarn install`
+
+## Getting Started
+
+1. Download this Project or you can type `git clone https://github.com/arizalinside/simple-ecommerce-react.git`
+2. Open app's directory in CMD or Terminal
+3. Type `npm install` or `yarn install` (This might take a while)
+4. Type `npm start` to start the app
+5. Enjoy!
 
 # Getting Started with Create React App
 
