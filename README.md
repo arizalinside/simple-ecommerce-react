@@ -1,6 +1,19 @@
-<h1 align="center">
-simple-ecommerce-react
-</h1>
+<h1 align='center'>Reactify - Simple E-commerce React</h1>
+  <p align="center">
+    <a href="https://reactify-commerce.netlify.app/">View Demo</a>
+    ·
+    <a href="https://github.com/arizalinside/simple-ecommerce-react/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/arizalinside/simple-ecommerce-react/issues">Request Feature</a>
+  </p>
+  
+[![React](https://img.shields.io/badge/React-v17.0.2-blue)](https://github.com/facebook/react)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-v5.1.x-purple)](https://getbootstrap.com/)
+  
+## Requirements
+
+1. <a href="https://nodejs.org/en/download/">Node Js</a>
+2. Node_modules `npm install` or `yarn install`
 
 # Getting Started with Create React App
 
