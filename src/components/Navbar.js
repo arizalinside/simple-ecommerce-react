@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import styled from "styled-components";
 import { ButtonContainer } from "./Button";
 
-import logo from "../logo.svg";
+import logo from "../assets/img/logo/logo-white-preview.png";
 
 class Navbar extends Component {
   render() {
@@ -35,7 +35,7 @@ class Navbar extends Component {
 export default Navbar;
 
 const NavWrapper = styled.nav`
-  background: var(--mainDark);
+  background: var(--mainGreen);
   .nav-link {
     color: var(--mainWhite) !important;
     font-size: 1.3rem;
