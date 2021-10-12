@@ -61,5 +61,6 @@ const ModalContainer = styled.div`
   justify-content: center;
   #modal {
     background: var(--mainWhite);
+    border-radius: 0.5rem;
   }
 `;
